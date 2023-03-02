@@ -21,7 +21,7 @@
 
 ## &nbsp; Contact
 - :mailbox: [E-Mail](mailto:cycpe950609@gmail.com)
--  📑 [LinkedIn](www.linkedin.com/in/ting-fang-tsai)
+-  📑 [LinkedIn](https://www.linkedin.com/in/ting-fang-tsai)
 
 <!--
 **cycpe950609/cycpe950609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
