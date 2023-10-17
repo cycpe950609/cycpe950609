@@ -1,11 +1,13 @@
 # 👋 &nbsp; Hi there 
 
 * I'm a graduate student in [CSIE@NTU](https://www.csie.ntu.edu.tw/intro/super_pages.php?ID=introen)
+* I'm mainly learning on deep learning on 3D reconstruction.
 * I'm interesting in finding and building tools to ease the programming.
 * I'm learning to be a frontend developer, familiar with React, Typescript , 
 
 ## ✍️ &nbsp; Current Projects
 
+* [Almost finish] 🖌️ [MyLittlePaint-v2](https://github.com/cycpe950609/MyLittlePaint-v2/) : Rewritten [MyLittlePaint](https://github.com/cycpe950609/MyLittlePaint/) with rotatable/scalable multiple layers canvas. Also can be draw with stylus (tested on iPad)
 * [WIP] 3DBeading : A tool help us convert any 3D model into [beading](https://commons.wikimedia.org/wiki/File:Perlentier.JPG#/media/File:Perlentier.JPG) map.
 
 ## 🗃️ &nbsp; Past Projects
