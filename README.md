@@ -7,7 +7,7 @@
 
 ## ✍️ &nbsp; Current Projects
 
-* [Almost finish] 🖌️ [MyLittlePaint-v2](https://github.com/cycpe950609/MyLittlePaint-v2/) : Rewritten [MyLittlePaint](https://github.com/cycpe950609/MyLittlePaint/) with rotatable/scalable multiple layers canvas. Also can be draw with stylus (tested on iPad)
+* 🖌️ [MyLittlePaint-v2](https://github.com/cycpe950609/MyLittlePaint-v2/) : Rewritten [MyLittlePaint](https://github.com/cycpe950609/MyLittlePaint/) with rotatable/scalable multiple layers canvas. Also can be draw with stylus (tested on iPad)
 * [WIP] 3DBeading : A tool help us convert any 3D model into [beading](https://commons.wikimedia.org/wiki/File:Perlentier.JPG#/media/File:Perlentier.JPG) map.
 
 ## 🗃️ &nbsp; Past Projects
