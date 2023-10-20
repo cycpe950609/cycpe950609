@@ -13,8 +13,8 @@
 ## 🗃️ &nbsp; Past Projects
 * 🖌️ [MyLittlePaint](https://github.com/cycpe950609/MyLittlePaint/) : Web Canvas with basic tools ( Polygon, Text, etc )
 * 🤖 [RobotResearch](https://github.com/cycpe950609/RobotResearch) : Research about navigating robot with finite state machine.
-* ⏲️ [HistoryOfTansuiRedline
-](https://github.com/cycpe950609/HistoryOfTansuiRedline) : A interactive map with history of Tamsui–Xinyi (Red) Line of Taipei Metro
+* ⏲️ [HistoryOfTamsuiRedline
+](https://github.com/cycpe950609/HistoryOfTamsuiRedline) : A interactive map with history of Tamsui–Xinyi (Red) Line of Taipei Metro
 
 ## 📊 &nbsp; Stats
 ![Cycpe950609's Github Stats](https://github-readme-stats.vercel.app/api?username=cycpe950609&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
