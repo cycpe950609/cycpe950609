@@ -25,7 +25,7 @@
 ## 📊 &nbsp; Stats
 ![Cycpe950609's Github Stats](https://github-readme-stats-phi-mauve-82.vercel.app/api?username=cycpe950609&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-![GitHub Streak](https://github-readme-streak-stats-cycpe950609s-projects.vercel.app/?user=cycpe950609&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![GitHub Streak](https://github-readme-streak-stats-two-dusky.vercel.app/?user=cycpe950609&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 [![Top Langs](https://github-readme-stats-phi-mauve-82.vercel.app/api/top-langs/?username=cycpe950609&layout=compact&exclude_repo=node-sdl2,html-designer,DigitalImageSynthesis-Assignment,AdvancedCompiler-HW1&hide=c,java)](https://github.com/cycpe950609)
 
